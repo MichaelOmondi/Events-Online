@@ -70,5 +70,8 @@ Open the application on your browser `127.0.0.1:8000`.
 * Some functionalities did not wrk as expected
 
 
+## Contact Information   
+For any question or querry, please email me at [omondimike11@gmail.com]  
+  
 
 
