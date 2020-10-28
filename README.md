@@ -72,6 +72,11 @@ Open the application on your browser `127.0.0.1:8000`.
 
 ## Contact Information   
 For any question or querry, please email me at [omondimike11@gmail.com]  
-  
+
+
+ ## License 
+
+* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/OmondiMichael/My-Gallery/blob/master/LICENSE)  
+* Copyright (c) 2020 **Michael Omondi** 
 
 
