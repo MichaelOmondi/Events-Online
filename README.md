@@ -60,6 +60,10 @@ python manage.py makemigrations pictures
 ```
 Open the application on your browser `127.0.0.1:8000`.  
   
+## Technoogy used
 
+* [Python3.8](https://www.python.org/)  
+* [Django 3.1.2](https://docs.djangoproject.com/en/2.2/)  
+* [Heroku](https://heroku.com)  
 
 
