@@ -1,7 +1,7 @@
 # Events-Online
 ## Author 
 
->[MichaelOmondi](https://mkevents.herokuapp.com/)
+>[MichaelOmondi](https://github.com/MichaelOmondi/Events-Online)
 
 # Description
 
@@ -17,7 +17,49 @@ Click [] (https://mkevents.herokuapp.com/) to visit the site
 
 *  Search for different categories 
 
-* View photos based on the location they were taken.  
+* View photos based on the location they were taken. 
+
+## Cloing the repository:
+
+##### Cloning the repository:  
+ ```bash 
+ https://github.com/MichaelOmondi/Events-Online
+```
+##### Navigate into the folder and install requirements  
+ ```bash 
+cd Picture-Globe pip install -r requirements.txt 
+```
+##### Install and activate Virtual  
+ ```bash 
+- python3 -m venv virtual - source virtual/bin/activate  
+```  
+##### Install Dependencies  
+ ```bash 
+ pip install -r requirements.txt 
+```  
+ ##### Setup Database  
+  SetUp your database User,Password, Host then make migrate  
+ ```bash 
+python manage.py makemigrations pictures 
+ ``` 
+ Now Migrate  
+ ```bash 
+ python manage.py migrate 
+```
+##### Run the application  
+ ```bash 
+ python manage.py runserver 
+``` 
+##### Running the application  
+ ```bash 
+ python manage.py server 
+```
+##### Testing the application.  
+ ```bash 
+ python manage.py test 
+```
+Open the application on your browser `127.0.0.1:8000`.  
+  
 
 
 
